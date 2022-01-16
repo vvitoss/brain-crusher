@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>ru.netology</groupId>
-    <artifactId>brain crusher</artifactId>
+    <artifactId>brain_crusher</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
